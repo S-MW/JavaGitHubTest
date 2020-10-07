@@ -18,7 +18,7 @@ public class JavaApplication5 {
         System.out.print(" Input : ");
                 int sec = sc.nextInt();
                 
-
+      // test +++++++++++++++ test 
        String Time = functions(sec);
 
         System.out.println(" Output : " + Time);        

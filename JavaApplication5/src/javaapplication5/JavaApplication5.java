@@ -4,11 +4,8 @@
  * and open the template in the editor.
  */
 package javaapplication5;
-
-
-
-
 import java.util.Scanner;
+
 public class JavaApplication5 {
     
     public static void main(String[] args) 
